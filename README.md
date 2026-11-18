@@ -1,6 +1,6 @@
 ### Hi, I'm Dora 👋
 
-I'm a physicist working in quantitative biology, currently a **postdoc in the [Paulsson lab](https://paulsson.hms.harvard.edu/) at Harvard Medical School**. I build microscopes and image analysis tools to study the physics of living cells.
+I'm a physicist working in quantitative biology, currently a **Research Associate in the [Paulsson lab](https://paulsson.hms.harvard.edu/), Department of Systems Biology, Harvard Medical School**. I build microscopes and image analysis tools to study the physics of living cells.
 
 - 🔬 **Now:** combining microscopy and microfluidics to study plasmid replication control
 - 🧪 **PhD (EPFL, [Manley lab](https://www.epfl.ch/labs/leb/)):** high-throughput and adaptive super-resolution microscopy, mitochondrial division and centriole architecture
